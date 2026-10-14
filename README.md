@@ -1,16 +1,83 @@
-# React + Vite
+# Xntrova Technologies — Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive homepage redesign for Xntrova Technologies, developed as part of the Web Developer Practical Assessment.
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project focuses on improving the website's user experience, visual presentation, responsiveness, and conversion flow while maintaining a professional technology-agency identity.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern hero section with call-to-action buttons
+- Navigation and responsive homepage layout
+- Services and About sections
+- Why Choose Us section
+- How We Work process section
+- Portfolio / Our Work section
+- Client testimonials
+- Contact section and lead form
+- Responsive layout for desktop, tablet, and mobile
+- Modern UI with hover interactions
 
-## Expanding the Oxlint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## Getting Started
+
+### Prerequisites
+
+Install Node.js and npm before running the project.
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sannokashyap/xntrova-homepage.git
+```
+
+Move into the project directory:
+
+```bash
+cd xntrova-homepage
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Production Build
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+## Project Links
+
+- **GitHub Repository:** https://github.com/Sannokashyap/xntrova-homepage
+- **Live Website:** https://sannokashyap.github.io/xntrova-homepage/
+
+## Assessment
+
+Created for the Xntrova Technologies Web Developer Homepage Redesign Assessment.
+
+## Developer
+
+**Sanno Kashyap**
+
+GitHub: https://github.com/Sannokashyap
